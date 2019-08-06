@@ -1,2 +1,2 @@
-# Tidal-Response-of-Mars-Constrained-from-Laboratory-based-Viscoelastic-Dissipation-Models-and-Geophys
+# Tidal-Response-of-Mars_JGR
 The data used in the paper in the title in JGR-Planets
